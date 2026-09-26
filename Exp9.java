@@ -17,7 +17,7 @@ obj2.add("Thanu");
 obj1.addAll(obj2);
 System.out.println("nArrayList obj1 after add All:"+obj1);
 obj1.add(0,"Ragul");
-obj1.add(1,"Thanuja");
+obj1.add(1,"justin");
 System.out.println("\nArrayList obj1 after add element at the given index:"+obj1);
 System.out.println("\nEnter the Search element:");
 Scanner input=new Scanner(System.in);
